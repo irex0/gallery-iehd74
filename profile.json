@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "My Gallery | Personal Portfolio",
+    "description": "Explore my personal gallery. A collection of moments, photography, and creative works.",
+    "keywords": "Gallery, Photography, Portfolio, Personal Website",
+    "themeColor": "#05050a",
+    "author": "Gallery Owner"
+  },
+  "header": {
+    "title": "My Photo Album",
+    "subtitle": "Sharing my personal favorite moments and memories with you."
+  },
+  "about": {
+    "title": "About Me",
+    "quote": "Just me, my camera, and some great memories.",
+    "greeting": "Hi there!",
+    "intro": "Welcome to my personal corner of the internet. I created this website to share my favorite photos from my daily life, travels, and everything in between.",
+    "description": "I'm not a professional photographer—I just love keeping memories alive. Whether it's a sunset, a fun day out with friends, or a beautiful view, these are the moments that mean the most to me."
+  },
+  "contact": {
+    "email": "hello@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA"
+  }
+}
